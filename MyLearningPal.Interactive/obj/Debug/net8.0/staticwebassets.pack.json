@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\github\\DotnetPal\\MyLearningPal.Interactive\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyLearningPal.Interactive.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyLearningPal.Interactive.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\github\\DotnetPal\\MyLearningPal.Interactive\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\github\\DotnetPal\\MyLearningPal.Interactive\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\github\\DotnetPal\\MyLearningPal.Interactive\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\github\\DotnetPal\\MyLearningPal.Interactive\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyLearningPal.Interactive.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyLearningPal.Interactive.props",
+      "PackagePath": "build\\MyLearningPal.Interactive.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyLearningPal.Interactive.props",
+      "PackagePath": "buildMultiTargeting\\MyLearningPal.Interactive.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyLearningPal.Interactive.props",
+      "PackagePath": "buildTransitive\\MyLearningPal.Interactive.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

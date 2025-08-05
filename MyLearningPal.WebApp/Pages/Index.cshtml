@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "学习任务列表";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>任务名称</th>
+            <th>是否完成</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var task in Model.Tasks)
+        {
+            <tr>
+                <td>@task.Title</td>
+                <td>@(task.IsCompleted ? "是" : "否")</td>
+            </tr>
+        }
+    </tbody>
+</table>

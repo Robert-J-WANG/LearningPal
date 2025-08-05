@@ -1,0 +1,6 @@
+@MyLearningPal.Api_HostAddress = http://localhost:5055
+
+GET {{MyLearningPal.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

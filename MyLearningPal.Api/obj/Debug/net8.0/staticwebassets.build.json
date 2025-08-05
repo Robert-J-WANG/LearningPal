@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fwGPDpMX+hrqrsg73+IGW5m/EvkrEsvpXHa3FBsqVy4=",
+  "Source": "MyLearningPal.Api",
+  "BasePath": "_content/MyLearningPal.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

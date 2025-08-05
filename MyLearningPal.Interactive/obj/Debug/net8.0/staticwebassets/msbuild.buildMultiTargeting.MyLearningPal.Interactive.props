@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MyLearningPal.Interactive.props" />
+</Project>
